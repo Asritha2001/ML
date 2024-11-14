@@ -52,7 +52,7 @@ To run the project:
 
 1. Clone the repository:
     ```bash
-     git clone "https://github.com/Asritha2001/ML"
+     git clone https://github.com/yourusername/ML.git
     ```
 
 2. Install required packages:
