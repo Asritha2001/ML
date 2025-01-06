@@ -19,8 +19,6 @@ This project implements various machine learning algorithms to classify data acr
 ## **Experiments and Results**
 Each algorithm was optimized through hyperparameter tuning. Key experiments and results include:
 
-# Machine Learning Capstone Project
-
 **Handwritten Digits Recognition:** <br>
 - **Decision Tree**: Achieved 82% accuracy at a depth of 10.  
 - **Random Forest**: Optimal performance with 40 trees, achieving a 96% accuracy.  
